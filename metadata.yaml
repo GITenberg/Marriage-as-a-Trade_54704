@@ -1,0 +1,33 @@
+_repo: Marriage-as-a-Trade_54704
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Hamilton, Cicely
+    aliases:
+    - Hamill, Cicely Mary
+    - Hamilton, Cicely Mary
+    birthdate: 1872
+    deathdate: 1952
+    gutenberg_agent_id: '47185'
+    url: http://www.gutenberg.org/2009/agents/47185
+    wikipedia: https://en.wikipedia.org/wiki/Cicely_Hamilton
+description: ''
+gutenberg_issued: '2017-05-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '54704'
+  lccn: 09023010
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Women -- Social and moral questions'
+- !lcsh 'Marriage'
+- !lcsh 'Marriage -- Great Britain -- History -- 19th century'
+- !lcc 'HQ'
+- !lcsh 'Women -- Great Britain -- History -- 19th century'
+- !lcsh 'Women -- Employment -- Great Britain -- History -- 19th century'
+- GITenberg
+title: Marriage as a Trade
+url: http://www.gutenberg.org/ebooks/54704
